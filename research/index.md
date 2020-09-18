@@ -9,7 +9,9 @@ group: research
 <div class="row">
 
 # Our research
+<br>
 XX
+<br>
 
 #### Header 1
 <br>
