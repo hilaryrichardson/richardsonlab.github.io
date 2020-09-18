@@ -1,4 +1,4 @@
-# fraser-lab.github.io
+# hilaryrichardson.github.io
 ====================
 
 Technologies this website uses:  
