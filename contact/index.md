@@ -1,66 +1,32 @@
 ---
-title: Contact the Fraser Lab
+title: Contact the Richardson Lab
 layout: default
 group: contact
 ---
 
-# Contact the Fraser Lab
+# Contact the Richardson Lab
 
+<div class="col-md-4">
+
+  <h4>Hilary Richardson, Ph.D.</h4>
+  Lecturer  <br>
+  School of Philosophy, Psychology, and Language Sciences  <br>
+  University of Edinburgh <br>
+  email: hilary.richardson at ed.ac.uk <br>
+
+</div>
+
+
+# Directions to the Richardson Lab
 
 <div class="row">
 
 <div class="col-md-4">
 
-  <h4>Lab Area </h4>
-  tel: 415 502 3488
+<h4>Address</h4>
 
-</div>
-
-<div class="col-md-4">
-
-  <h4>James Fraser, Ph.D.</h4>
-  Professor  <br>
-  Department of Bioengineering and Therapeutic Sciences  <br>
-  California Institute of Quantitative Biosciences (QB3)  <br>
-  email: jfraser (at) fraserlab.com <br>
-  tel: 415 502 1863
-
-</div>
-
-<div class="col-md-4">
-
-  <h4> Hilary Smith Mahon</h4>
-  Administrative Assistant to Dr. James Fraser and  others<br>
-  Department of Bioengineering and Therapeutic Sciences  <br>
-  Email:  Hilary.SmithMahon (at) ucsf.edu  <br>
-  Phone: 415 476-1947   <br>
-
-</div>
-
-</div>
-
-# Directions to the Fraser Lab
-
-<div class="row">
-
-<div class="col-md-4">
-
-<h4>Office Address</h4>
-
-Department of Bioengineering and Therapeutic Sciences Box #2240<br>
-600 16th Street, Genentech Hall Room S472E<br>
-San Francisco, CA 94143
-
-
-</div>
-
-<div class="col-md-4">
-
-<h4>Lab Address</h4>
-
-Department of Bioengineering and Therapeutic Sciences Box #2240<br>
-600 16th Street, Genentech Hall Room S476<br>
-San Francisco, CA 94143
+Psychology Building
+7 George Square, Edinburgh
 
 </div>
 
