@@ -3,18 +3,15 @@ title: Contact
 ---
 
 
-### Contact the Fraser Lab
+### Contact Us
 
-James Fraser, Ph.D.
-Professor
-Department of Bioengineering and Therapeutic Sciences
-California Institute of Quantitative Biosciences (QB3)
+Hilary Richardson, Ph.D.
+Lecturer
+School of Philosophy, Psychology, and Language Sciences
+University of Edinburgh
 
-email: jfraser (#!) fraserlab.com
-tel: 415 493 842 one
-fax: 415 514 016 nine
+email: hilary.richardson at ed.ac.uk
 
-Genentech Hall Room S472E (Office), S476 (Lab)
-UCSF Mail Code 2240
-600 16th Street
-San Francisco, CA 94158
+Psychology Building
+7 George Square, Edinburgh
+EH8 9JZ
