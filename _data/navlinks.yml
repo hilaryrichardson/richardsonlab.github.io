@@ -10,14 +10,6 @@
   link: "/publications"
   group: publications
 
-- name: collaborators
-  link: "/collaborators"
-  group: collaborators
-
-- name: news
-  link: "/news"
-  group: news
-
 - name: join
   link: "/join"
   group: join
