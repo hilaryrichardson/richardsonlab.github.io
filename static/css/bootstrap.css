@@ -4542,11 +4542,11 @@ input[type="button"].btn-block {
 }
 
 .navbar-dark .navbar-text a {
-  color: #000000;
+  color: #FFF;
 }
 
 .navbar-dark .navbar-text a:hover, .navbar-dark .navbar-text a:focus {
-  color: #000000;
+  color: #FFF;
 }
 
 .card {
