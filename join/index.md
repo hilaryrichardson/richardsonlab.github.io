@@ -11,15 +11,17 @@ Our lab welcomes applicants from any race, ethnicity, religion, national origin,
 
 ##### Prospective PhD Students
 
+Prospective PhD students should email me (Hilary), describing their research training and interests. PhD applications are due November 25th, 2020. 
+  * **[Learn more about funding opportunities for PhD students](https://www.ed.ac.uk/ppls/psychology/prospective/postgraduate/funding-research-students)**
   * **[Learn more about the PhD programs at Edinburgh PPLS](https://www.ed.ac.uk/ppls/psychology/prospective/postgraduate/psychology-phd-programme)**
 
 ##### Prospective Masters Students
-
+  * **[Learn more about funding opportunities for MSc students](  https://www.ed.ac.uk/ppls/psychology/prospective/postgraduate/funding-msc-students)**
   * **[Learn more about the MSc programs at Edinburgh PPLS](https://www.ed.ac.uk/ppls/psychology/prospective/postgraduate/msc)**
 
 ##### Postdoctoral Fellows
 
-Individuals interested in completing a postdoc in the lab should email me (Hilary), describing their research training and interests. I do not currently have funding for a postdoc, but I am open to proposals for new lines of work that are aligned with my current research interests. Below are ways for postdocs to secure independent funding. Note that at the moment, there have not been changes to UK participation in EU research programs, or in the eligibility of EU citizens to work at UK universities. Additionally, [the UK government has guaranteed to cover EU funding beyond Brexit](https://www.gov.uk/government/news/chancellor-philip-hammond-guarantees-eu-funding-beyond-date-uk-leaves-the-eu) - so UK researchers can continue to apply for EU funds:
+Individuals interested in completing a postdoc in the lab should email me (Hilary), describing their research training and interests. I do not currently have funding for a postdoc, but I am open to proposals for new lines of work that are aligned with my current research interests. Ways for postdocs to secure independent funding include:
   * **[Marie Curie Fellowships](https://ec.europa.eu/research/mariecurieactions/actions/individual-fellowships_en)**
   * **[Sir Henry Wellcome Postdoctoral Fellowships](https://wellcome.org/grant-funding/schemes/sir-henry-wellcome-postdoctoral-fellowships)**
   * **[The Royal Society Newton International Fellowships](https://ec.europa.eu/research/mariecurieactions/actions/individual-fellowships_en)**
@@ -27,6 +29,7 @@ Individuals interested in completing a postdoc in the lab should email me (Hilar
   * **[British Academy]**
   * **[NIH]**
 
-##### Undergraduate Students
+Note that at the moment, there have not been changes to UK participation in EU research programs, or in the eligibility of EU citizens to work at UK universities. Additionally, [the UK government has guaranteed to cover EU funding beyond Brexit](https://www.gov.uk/government/news/chancellor-philip-hammond-guarantees-eu-funding-beyond-date-uk-leaves-the-eu) - so UK researchers can continue to apply for EU funds.
 
-##### Other Visitors
+##### Undergraduate Students, Research Assistants, and Visitors
+
