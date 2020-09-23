@@ -6,9 +6,7 @@ group: join
 
 # Join our lab!
 Our lab welcomes applicants from any race, ethnicity, religion, national origin, gender identity, gender expression, caregiver and family commitments, political affiliation, sexual orientation, and eligible age or disability status. We are committed to maintaining a supportive and collaborative lab environment, and to doing rigorous, transparent science.
-
 <br/>
-
 ##### Prospective PhD Students
 
 Prospective PhD students should email me (Hilary), describing their research training and interests. PhD applications are due November 25th, 2020. 
