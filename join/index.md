@@ -11,11 +11,11 @@ Our lab welcomes applicants from any race, ethnicity, religion, national origin,
 
 ##### Prospective PhD Students
 
-  * **[Learn more about the PhD programs at Edinburgh PPLS here:](https://www.ed.ac.uk/ppls/psychology/prospective/postgraduate/psychology-phd-programme)**
+  * **[Learn more about the PhD programs at Edinburgh PPLS](https://www.ed.ac.uk/ppls/psychology/prospective/postgraduate/psychology-phd-programme)**
 
 ##### Prospective Masters Students
 
-  * **[Learn more about the MSc programs at Edinburgh PPLS here:](https://www.ed.ac.uk/ppls/psychology/prospective/postgraduate/msc)**
+  * **[Learn more about the MSc programs at Edinburgh PPLS](https://www.ed.ac.uk/ppls/psychology/prospective/postgraduate/msc)**
 
 ##### Postdoctoral Fellows
 
@@ -30,5 +30,3 @@ Individuals interested in completing a postdoc in the lab should email me (Hilar
 ##### Undergraduate Students
 
 ##### Other Visitors
-
-[]
