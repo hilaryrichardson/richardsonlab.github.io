@@ -28,6 +28,7 @@ Individuals interested in completing a postdoc in the lab should email me (Hilar
   * **[Leverhulm]**
   * **[British Academy]**
   * **[NIH]**
+  * **[Learn more about the funding for prospective postdoctoral fellows](https://ppls.ed.ac.uk/shared/postdoctoral-fellowships/)**
 
 Note that at the moment, there have not been changes to UK participation in EU research programs, or in the eligibility of EU citizens to work at UK universities. Additionally, [the UK government has guaranteed to cover EU funding beyond Brexit](https://www.gov.uk/government/news/chancellor-philip-hammond-guarantees-eu-funding-beyond-date-uk-leaves-the-eu).
 
