@@ -4,10 +4,10 @@ layout: home
 group: home
 ---
 
-# Brain & Cognitive Development Group at the University of Edinburgh
+# Laboratory for Brain & Cognitive Development at the University of Edinburgh
 {: .display-4}
 <br>
-Welcome! We are part of the [School of Philosophy, Psychology, and Language Sciences](https://www.ed.ac.uk/PPLS), [Wee Science](https://www.weescience.ppls.ed.ac.uk/), and [Edinburgh Neuroscience](https://www.edinburghneuroscience.ed.ac.uk/). 
+Welcome! We are the Laboratory for Brain & Cognitive Development, led by Prof. Hilary Richardson. We are part of the part of [Wee Science](https://www.weescience.ppls.ed.ac.uk/) group within the [School of Philosophy, Psychology, and Language Sciences](https://www.ed.ac.uk/PPLS) at the University of Edinburgh.
 {: .welcomefont}
 
 []
