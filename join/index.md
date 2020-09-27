@@ -25,12 +25,12 @@ Individuals interested in completing a postdoc in the lab should email me (Hilar
   * **[Marie Curie Fellowships](https://ec.europa.eu/research/mariecurieactions/actions/individual-fellowships_en)**
   * **[Sir Henry Wellcome Postdoctoral Fellowships](https://wellcome.org/grant-funding/schemes/sir-henry-wellcome-postdoctoral-fellowships)**
   * **[The Royal Society Newton International Fellowships](https://ec.europa.eu/research/mariecurieactions/actions/individual-fellowships_en)**
-  * **[Leverhulm]**
-  * **[British Academy]**
-  * **[NIH]**
-  * **[Learn more about the funding for prospective postdoctoral fellows](https://ppls.ed.ac.uk/shared/postdoctoral-fellowships/)**
+  * **[Leverhulm Trust Early Career Fellowships]**(https://www.leverhulme.ac.uk/early-career-fellowships)
+  * **[British Academy Postdoctoral Fellowships]**(https://www.thebritishacademy.ac.uk/funding/postdoctoral-fellowships/)
+  * **[For US citizens: NIH NRSA Postdoctoral Fellowship]**(https://researchtraining.nih.gov/programs/fellowships/F32)
+  * **[Learn more about funding for prospective postdoctoral fellows](https://ppls.ed.ac.uk/shared/postdoctoral-fellowships/)**
 
 Note that at the moment, there have not been changes to UK participation in EU research programs, or in the eligibility of EU citizens to work at UK universities. Additionally, [the UK government has guaranteed to cover EU funding beyond Brexit](https://www.gov.uk/government/news/chancellor-philip-hammond-guarantees-eu-funding-beyond-date-uk-leaves-the-eu).
 
 ##### Undergraduate Students, Research Assistants, and Visitors
-
+If you are interested in volunteering or working as a research assistant, or visiting the lab for the short or long term, please get in touch! The lab is currently working virtually, but there is a lot of exciting science that we can do even with these constraints.
