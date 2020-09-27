@@ -5,7 +5,7 @@ group: join
 ---
 
 # Join our lab!
-Our lab welcomes applicants from any race, ethnicity, religion, national origin, gender identity, gender expression, caregiver and family commitments, political affiliation, sexual orientation, and eligible age or disability status. We are committed to maintaining a supportive and collaborative lab environment, and to doing rigorous, transparent science.
+Our lab welcomes applicants from any race, ethnicity, religion, national origin, gender identity, gender expression, caregiver and family commitments, political affiliation, sexual orientation, and eligible age or disability status. We are committed to maintaining a supportive and collaborative lab environment for doing rigorous, transparent science.
 <br/>
 ##### Prospective Graduate Students
 
