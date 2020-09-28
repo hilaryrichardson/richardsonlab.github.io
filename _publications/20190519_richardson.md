@@ -6,5 +6,5 @@ links:
 - name: HBN Dataset
   url: http://fcon_1000.projects.nitrc.org/indi/cmi_healthy_brain_network/
 - name: Movie Stimulus
-url: https://vimeo.com/152985022
+  url: https://vimeo.com/152985022
 ---
