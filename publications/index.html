@@ -7,7 +7,7 @@ group: publications
 <h1>Publications</h1>
 <div class="container-fluid">
 
-        <h2>Peer-Reviewed Publications</h2>        
+        <h3>Peer-Reviewed Publications</h3>        
         {% for publication in site.publications reversed %}
                 <hr>
                 <div>{{ publication.citation | markdownify }} [<a href="{{publication.pdf}}" alt = "PDF">Full Text</a>]                 
