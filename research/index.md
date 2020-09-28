@@ -12,7 +12,7 @@ group: research
 </div>
 <div class="row">
 
-### This site is under construction! Check back later. 
+### This page is under construction! Check back later. 
 
 <div class="col-md-7 order-md-1">
 </div>
