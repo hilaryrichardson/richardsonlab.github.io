@@ -8,5 +8,5 @@ links:
 - name: Timecourse Data
   url: https://osf.io/5jvwf/
 - name: Movie Stimulus
-url: https://www.youtube.com/watch?v=7DmLkugdh9s&t=1s
+  url: https://www.youtube.com/watch?v=7DmLkugdh9s&t=1s
 ---
