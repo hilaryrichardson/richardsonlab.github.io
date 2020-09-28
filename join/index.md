@@ -33,8 +33,10 @@ Individuals interested in completing a postdoc in the lab should email me (Hilar
 Note that at the moment, there have not been changes to UK participation in EU research programs, or in the eligibility of EU citizens to work at UK universities. Additionally, [the UK government has guaranteed to cover EU funding beyond Brexit](https://www.gov.uk/government/news/chancellor-philip-hammond-guarantees-eu-funding-beyond-date-uk-leaves-the-eu).
 
 ##### Undergraduate Students/Research Assistants
-If you are interested in volunteering or working as a research assistant, please email Hilary! The lab is currently working virtually, but there is a lot of exciting science that we can do even with these constraints. There are funding opportunities for undergraduate students interested in gaining research experience, especially e.g., over the summer:
+If you are interested in volunteering or working as a research assistant, please email Hilary! The lab is currently working virtually, but there is a lot of exciting science that we can do even with these constraints. There are funding opportunities for undergraduate students interested in gaining research experience:
   * **[Carnegie Trust Vacation Scholarships](https://www.carnegie-trust.org/award-schemes/vacation-scholarships/)**
+  * **[Wellcome Biomedical Vacation Scholarships](https://wellcome.org/grant-funding/schemes/biomedical-vacation-scholarships)**
+  * **[Nuffield Research Placements](https://www.nuffieldfoundation.org/students-teachers/nuffield-research-placements)**
 
 ##### Visitors
 The lab is currently working virtually, but if you are interested in "visiting" in some capacity, please email Hilary. 
