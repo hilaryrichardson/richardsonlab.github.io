@@ -14,26 +14,6 @@ group: publications
         <div class="row" style="padding-top: 20px; margin-top: - 20px;">
         	<ul class="col-sm-6">
         			<strong>Access the paper</strong>
-        			<!--PMID-->
-        			{% if publication.pmid %}
-        			<li>PMID: <a href="http://www.ncbi.nlm.nih.gov/pubmed/{{publication.pmid}}" alt = "pubmed link: {{publication.pmid}}"> {{publication.pmid}}</a></li>
-        			{% endif %}
-
-        			<!--PMCID - optional -->
-        			{% if publication.pmcid %}
-        			<li>PMCID: <a href="http://www.ncbi.nlm.nih.gov/pmc/articles/{{publication.pmcid}}" alt = "pubmed central link: {{publication.pmcid}}"> {{publication.pmcid}}</a></li>
-        			{% endif %}
-
-        			<!--Biorxiv - optional -->
-        			{% if publication.biorxiv %}
-        			<li>Biorxiv Preprint: <a href="http://dx.doi.org/10.1101/{{publication.biorxiv}}" alt = "biorxiv preprint link: {{publication.biorxiv}}"> {{publication.biorxiv | split: "." | last }}</a></li>
-        			{% endif %}
-
-        			<!--Arxiv - optional -->
-        			{% if publication.arxiv %}
-        			<li>arXiv Preprint: <a href="https://arxiv.org/abs/{{publication.arxiv}}" alt = "arxiv preprint link: {{publication.arxiv}}"> {{publication.arxiv}}</a></li>
-        			{% endif %}
-
         			<!-- PDF -->
         			<li><a href="{{publication.pdf}}" alt = "PDF"> Full Text</a></li>
 
