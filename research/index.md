@@ -9,24 +9,14 @@ group: research
 <div class="row">
 
 # Our research
-<br>
-XX
-<br>
-
-#### Header 1
-<br>
-<br>
-
 </div>
-
 <div class="row">
 
-### Header 2
+### This site is under construction! Check back later. 
 
 <div class="col-md-7 order-md-1">
-
+</div>
 We share [data](https://openneuro.org/datasets/ds000228) and [stimuli](osf.io/spqgc). 
-XXX
 
 </div>
 <div class="col-md-5 order-md-2 align-self-center">
@@ -48,6 +38,5 @@ XXX
 </div>
 </div>
 <div class="row">
-
 
 </div>
