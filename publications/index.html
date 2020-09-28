@@ -10,9 +10,10 @@ group: publications
 {% for publication in site.publications reversed %}
         <hr>
         <div>{{ publication.citation | markdownify }}</div>
+        [<a href="{{publication.pdf}}" alt = "PDF">Full Text</a>]
         </div>
 
-        [<a href="{{publication.pdf}}" alt = "PDF"> Full Text</a>]
+        [<a href="{{publication.pdf}}" alt = "PDF">Full Text</a>]
         <li><a href="{{publication.data}}" alt = "PDF"> Data</a></li>
         <li><a href="{{publication.data}}" alt = "PDF"> Data</a></li>
 
