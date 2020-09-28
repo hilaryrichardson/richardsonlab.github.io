@@ -3,4 +3,3 @@ citation: "**Richardson, H.**, Saxe, R. (2020). Early Signatures and Development
 date: '2020-06-01'
 pdf: 'https://github.com/hilaryrichardson/hilaryrichardson.github.io/tree/master/_books/RichardsonSaxe_NCCD.pdf'
 ---
-
