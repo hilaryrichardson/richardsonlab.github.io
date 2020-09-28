@@ -22,7 +22,6 @@ We share [data](https://openneuro.org/datasets/ds000228) and [stimuli](osf.io/sp
 <div class="col-md-5 order-md-2 align-self-center">
 <img class="img-fluid" src="/static/img/pub/2017_biel.jpg" alt="qFit">
 </div>
-</div>
 <div class="row">
 
 ### Header 3
