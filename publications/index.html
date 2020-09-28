@@ -22,4 +22,20 @@ group: publications
                 </div>
                 <br>
         {% endfor %}
+        
+        <h3>Book Chapters</h3>        
+        {% for publication in site.books reversed %}
+                <hr>
+                <div>{{ books.citation | markdownify }} [<a href="{{books.pdf}}" alt = "PDF">Full Text</a>]                 
+                     {% if books.links %}
+                           {% for link in books.links %}
+                              [<a href="{{link.url}}" alt="{{link.name}}">{{link.name}}</a>]
+                           {% endfor %}
+                     {% endif %}
+                </div>
+
+                <div class="row" style="padding-top: 20px; margin-top: - 20px;">
+                </div>
+                <br>
+        {% endfor %}
 </div>
