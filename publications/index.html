@@ -9,44 +9,15 @@ group: publications
 
 {% for publication in site.publications reversed %}
         <hr>
-        <div>{{ publication.citation | markdownify }} [<a href="{{publication.pdf}}" alt = "PDF">Full Text</a>] 
-                
+        <div>{{ publication.citation | markdownify }} [<a href="{{publication.pdf}}" alt = "PDF">Full Text</a>]                 
              {% if publication.links %}
                    {% for link in publication.links %}
                       [<a href="{{link.url}}" alt="{{link.name}}">{{link.name}}</a>]
                    {% endfor %}
-             {% endif %}</div>
-        
-        <li><a href="{{publication.data}}" alt = "PDF"> Data</a></li>
+             {% endif %}
+        </div>
 
         <div class="row" style="padding-top: 20px; margin-top: - 20px;">
-        	<ul class="col-sm-6">
-        			<strong>Access the paper</strong>
-        			<!-- PDF -->
-        			<li><a href="{{publication.pdf}}" alt = "PDF"> Full Text</a></li>
-
-        			<!-- Datasets - optional -->
-        			{% if publication.data %}
-        			<li>Online Dataset{% if publication.data.size > 1 %}s{% endif %}:
-        				{% if publication.data.size > 1 %}
-        				<ul>
-        					{% for dataset in publication.data %}
-        					<li><a href="http://dx.doi.org/{{dataset}}" alt = "sbgrid data repository">doi:{{dataset}}</a></li>
-        					{% endfor %}
-        				</ul>
-        				{% else %}
-        				<a href="http://dx.doi.org/{{publication.data}}" alt = "sbgrid data repository">doi:{{publication.data}}</a>
-        				{% endif %}
-        			</li>
-        			{% endif %}
-
-        			<!--additional links - optional-->
-                                {% if publication.links %}
-                                        {% for link in publication.links %}
-                                        <li><a href="{{link.url}}" alt="{{link.name}}">{{link.name}}</a></li>
-                                        {% endfor %}
-                                {% endif %}
-        	</ul>
         </div>
         <br>
 {% endfor %}
