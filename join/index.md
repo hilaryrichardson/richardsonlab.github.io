@@ -41,3 +41,7 @@ If you are interested in volunteering or working as a research assistant, please
 ##### Visitors
 The lab is currently working virtually, but if you are interested in "visiting" in some capacity, please email Hilary. 
 * **[Learn more about visiting Edinburgh PPLS](https://www.ed.ac.uk/ppls/psychology/research/academic-visitors)**
+
+<div class="container px-2 max-width: 100%">
+    <img class="img-fluid mx-auto d-block" src="/static/img/afterScangirl_cropped.png" alt="afterScanGirl">
+</div>
