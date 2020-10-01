@@ -16,7 +16,7 @@ We use a variety of methods, including child-friendly neuroimaging experiments, 
   <li>Examining development of brain regions recruited for language in neurotypical & autistic children (with Halie Olson & Drs. Evelina Fedorenko & Rebecca Saxe)</li>
 </ul>
 
-Download Hilary's full CV <a href="https://hilaryrichardson.github.io/static/HRichardsonSaxe_CV_2020_web.pdf">here.</a>
+Download Hilary's full CV <a href="https://hilaryrichardson.github.io/static/HRichardson_CV_2020_web.pdf">here.</a>
 
 #### Open Science
 Our lab embraces open science practices. We share [data](https://openneuro.org/datasets/ds000228) and [stimuli](https://osf.io/spqgc/), pre-register analysis plans, and are engaged in continual efforts to increase the transparency & replicability of our research.
