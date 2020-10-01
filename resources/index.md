@@ -6,7 +6,7 @@ group: resources
 
 # Resources
 
-##### Learning about fMRI & cognitive neuroscience
+##### fMRI & cognitive neuroscience
   * [Neuroskeptic's fMRI in 1000 words](http://neuroskeptic.blogspot.com/2010/05/fmri-in-1000-words.html)
   * [Neuroskeptic's fMRI analysis in 1000 words](https://www.discovermagazine.com/mind/fmri-analysis-in-1000-words#.UTOnFzdjp9U)
   * [Rebecca Saxe's fMRI Bootcamp](https://cbmm.mit.edu/fmri-bootcamp)
@@ -21,7 +21,7 @@ group: resources
   * [Guidance from Nadine Gaab's lab, with a focus on toddlers & children](https://osf.io/wg4ef/)
   * [Guidance from Jonathan Kominsky on virtual gaze-contingent studies](https://docs.google.com/document/d/1OTv7Ys9nrnZaYMCOlk7tm_q_k5jVEOOAsrYEWUUqwyY/edit)
 
-##### On writing & presentations
+##### Writing & presentations
   * [Barbara Sarnecka's "The Writing Workshop"](https://sites.google.com/uci.edu/sarneckalab/book?authuser=0)
   * [Resources provided by the JazLab at MIT](https://jazlab.org/writing/)
   
