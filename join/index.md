@@ -48,6 +48,3 @@ The lab is currently working virtually, but if you are interested in "visiting" 
 <img class="img-fluid mx-auto d-block" src="/static/img/Holyrood.png" alt="Holyrood">
 </div>
 <div class="row">
- 
-
-
