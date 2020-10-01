@@ -18,12 +18,12 @@ Our lab welcomes applicants from any race, ethnicity, religion, national origin,
 
 Prospective graduate students should email me (Hilary), describing their research training and interests. 
 
-  * [Learn more about funding opportunities for PhD students](https://www.ed.ac.uk/ppls/psychology/prospective/postgraduate/funding-research-students)
-  * [Learn more about the PhD programs at Edinburgh PPLS](https://www.ed.ac.uk/ppls/psychology/prospective/postgraduate/psychology-phd-programme)
+  * [Learn more about funding opportunities for **PhD** students](https://www.ed.ac.uk/ppls/psychology/prospective/postgraduate/funding-research-students)
+  * [Learn more about the **PhD** programs at Edinburgh PPLS](https://www.ed.ac.uk/ppls/psychology/prospective/postgraduate/psychology-phd-programme)
 
 
-  * [Learn more about funding opportunities for MSc students](https://www.ed.ac.uk/ppls/psychology/prospective/postgraduate/funding-msc-students)
-  * [Learn more about the MSc programs at Edinburgh PPLS](https://www.ed.ac.uk/ppls/psychology/prospective/postgraduate/msc)
+  * [Learn more about funding opportunities for **MSc** students](https://www.ed.ac.uk/ppls/psychology/prospective/postgraduate/funding-msc-students)
+  * [Learn more about the **MSc** programs at Edinburgh PPLS](https://www.ed.ac.uk/ppls/psychology/prospective/postgraduate/msc)
 
 
 ##### Postdoctoral Fellows
