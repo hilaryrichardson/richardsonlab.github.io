@@ -13,7 +13,7 @@ Copyright resides with the respective copyright holders, as stated in each artic
 
         <h3>Peer-Reviewed Publications</h3>        
         {% for publication in site.publications reversed %}
-                <div>{{ publication.citation | markdownify }} [<a href="{{publication.pdf}}" alt = "PDF">Full Text</a>]                 
+                <div>&#9{{ publication.citation | markdownify }} &#9 [<a href="{{publication.pdf}}" alt = "PDF">Full Text</a>]                 
                      {% if publication.links %}
                            {% for link in publication.links %}
                               [<a href="{{link.url}}" alt="{{link.name}}">{{link.name}}</a>]
