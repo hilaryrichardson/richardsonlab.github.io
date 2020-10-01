@@ -4,19 +4,15 @@ layout: default
 group: research
 ---
 
-<!-- <img class="img-fluid mx-auto d-block" src="/static/img/fraseratucsf.jpg" alt="Fraser at UCSF, in molecular form">
- -->
+
 <div class="row">
 
 # Our research
 </div>
 <div class="row">
 
-### This page is under construction! Check back later. 
-
-<div class="col-md-7 order-md-1">
-</div>
-We share [data](https://openneuro.org/datasets/ds000228) and [stimuli](osf.io/spqgc). 
+### Open Science
+Our lab embraces open science practices. We share [data](https://openneuro.org/datasets/ds000228) and [stimuli](osf.io/spqgc) and are engaged in continual efforts to increase the transparency & replicability of our research.
 
 </div>
 <div class="col-md-5 order-md-2 align-self-center">
