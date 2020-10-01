@@ -13,3 +13,11 @@
 - name: join
   link: "/join"
   group: join
+  
+  - name: resources
+  link: "/resources"
+  group: resources
+  
+  - name: kids corner!
+  link: "/kidscorner"
+  group: kidscorner
