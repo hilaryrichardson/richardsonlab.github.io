@@ -47,14 +47,7 @@ The lab is currently working virtually, but if you are interested in "visiting" 
 <div class="container px-2 max-width: 100%">
 <img class="img-fluid mx-auto d-block" src="/static/img/Holyrood.png" alt="Holyrood">
 </div>
-</div>
 <div class="row">
  
-<div class="col-md-7 order-md-1">
-</div>
-<div class="col-md-5 order-md-2 align-self-center">
-<img class="img-fluid" src="/static/img/Holyrood.png" alt="Holyrood">
-</div>
-</div>
-<div class="row">
+
 
