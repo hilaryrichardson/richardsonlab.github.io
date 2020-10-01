@@ -13,7 +13,7 @@ Our lab welcomes applicants from any race, ethnicity, religion, national origin,
 <div class="container px-2 max-width: 100%">
 <img class="img-fluid mx-auto d-block" src="/static/img/Holyrood.png" alt="Holyrood">
 </div>
-<div class="row">
+<br/>
  
 ##### Prospective Graduate Students
 
