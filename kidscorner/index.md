@@ -9,8 +9,8 @@ Our lab is part of [Wee Science](https://www.weescience.ppls.ed.ac.uk/) at the U
 We are not currently collecting data, but we hope to soon! In the meantime, check out these (virtual) opportunities to help scientists!
 
 ##### Participate in studies online!
-  * **[Children Helping Science](https://childrenhelpingscience.com/age-groups)**
-  * **[Lookit](https://lookit.mit.edu/studies/)**
+  * [Children Helping Science](https://childrenhelpingscience.com/age-groups)
+  * [Lookit](https://lookit.mit.edu/studies/)
   
 ##### Theirworld Edinburgh Birth Cohort
 Our lab also contributes to the [Theirworld Edinburgh Birth Cohort study](http://www.tebc.ed.ac.uk/). 
