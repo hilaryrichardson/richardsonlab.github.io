@@ -16,8 +16,8 @@ group: resources
 ##### Conducting virtual developmental psych experiments
   * **[Guidance from Marjorie Rhodes' Conceptual Development and Social Cognition Lab at NYU](http://discoveriesonline.org/)**
   * **[Guidance from Hyo Gweon's Social Learning Lab at Stanford](http://sll.stanford.edu/docs/Webinar_materials_v2.pdf)**
-  * **[Shari Liu's Blog on testing babies over Zoom, pt. 1](https://medium.com/@shariliued/testing-babies-online-over-zoom-part-1-745e5246b0af)**
-  * **[Shari Liu's Blog on testing babies over Zoom, pt. 2](https://medium.com/@shariliued/testing-babies-online-over-zoom-part-2-57ea880a6961)**
+  * **[Shari Liu's blogpost on testing babies over Zoom, pt. 1](https://medium.com/@shariliued/testing-babies-online-over-zoom-part-1-745e5246b0af)**
+  * **[Shari Liu's blogpost on testing babies over Zoom, pt. 2](https://medium.com/@shariliued/testing-babies-online-over-zoom-part-2-57ea880a6961)**
   * **[Guidance from Nadine Gaab's lab, with a focus on toddlers & children](https://osf.io/wg4ef/)**
   * **[Guidance from Jonathan Kominsky on virtual gaze-contingent studies](https://docs.google.com/document/d/1OTv7Ys9nrnZaYMCOlk7tm_q_k5jVEOOAsrYEWUUqwyY/edit)**
 
