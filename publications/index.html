@@ -8,11 +8,11 @@ group: publications
 <i>Electronic versions of publications are provided to ensure timely dissemination of academic work. They can be downloaded for noncommercial purposes. 
 Copyright resides with the respective copyright holders, as stated in each article. The files may not be reposted without permission from copyright holders.</i>
 <br>
+<hr>
 <div class="container-fluid">
 
         <h3>Peer-Reviewed Publications</h3>        
         {% for publication in site.publications reversed %}
-                <hr>
                 <div>{{ publication.citation | markdownify }} [<a href="{{publication.pdf}}" alt = "PDF">Full Text</a>]                 
                      {% if publication.links %}
                            {% for link in publication.links %}
@@ -26,8 +26,8 @@ Copyright resides with the respective copyright holders, as stated in each artic
                 <br>
         {% endfor %} 
         
-        <h3>Conference Proceedings</h3>
         <hr>
+        <h3>Conference Proceedings</h3>
         <b>Richardson, H.</b>, Baker, C., Tenenbaum, J., & Saxe, R. (2012). The development of joint belief-desire inferences. 
         In <i>Proceedings of the Annual Meeting of the Cognitive Science Society </i> (Vol. 34, No. 34). 
         <br>
@@ -36,8 +36,8 @@ Copyright resides with the respective copyright holders, as stated in each artic
          </div>
          <br>
         
-        <h3>Book Chapters</h3>
         <hr>
+        <h3>Book Chapters</h3>
         <b>Richardson, H.</b>, Saxe, R. (2020). Early signatures and developmental change in brain regions for theory of mind.
         In J. Rubenstein & P. Rakic (Eds.) <i>Neural Circuit and Cognitive Development, Second Edition, Volume 2. </i>
         <br>
@@ -45,7 +45,7 @@ Copyright resides with the respective copyright holders, as stated in each artic
         <div class="row" style="padding-top: 5px; margin-top: - 5px;">
          </div>
          <br>
-        <hr>
+
         <b>Richardson, H.</b>, Saxe, R. (2016). Using MRI to study developmental change in theory of mind.
         In J. Sommerville & J. Decety (Eds.) <i>Social Cognition: Development Across the Life Span, 210. </i>
         <br>
@@ -54,8 +54,8 @@ Copyright resides with the respective copyright holders, as stated in each artic
          </div>
          <br>
         
-        <h3>Essays</h3>
         <hr>
+        <h3>Essays</h3>
         <b>Richardson, H.</b>. (2012). New discoveries about the developing brain. <i>Future Reflections, 31</i>(1). 
         <br>
         [<a href="https://www.nfb.org/images/nfb/publications/fr/fr31/1/fr310111.htm">Full Text</a>]
@@ -63,6 +63,7 @@ Copyright resides with the respective copyright holders, as stated in each artic
         </div>
         <br>
         
+        <hr>
         For a dynamic list of publications, please see Hilary's <a href="https://scholar.google.com/citations?user=6a4FNMcAAAAJ&amp;hl=en&amp;oi=ao">Google Scholar profile</a>.
         <br>
         Stimuli and analysis plans are shared via the <a href="https://osf.io/spqgc/">Open Science Framework (OSF)</a>.
