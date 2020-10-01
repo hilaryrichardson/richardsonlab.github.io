@@ -14,10 +14,10 @@
   link: "/join"
   group: join
   
-  - name: resources
+- name: resources
   link: "/resources"
   group: resources
   
-  - name: kids corner!
+- name: kids corner!
   link: "/kidscorner"
   group: kidscorner
