@@ -10,7 +10,7 @@ Our research addresses fundamental questions about cognitive development: what c
 We use a variety of methods, including child-friendly neuroimaging experiments, to ask questions like: when do we develop "specialized" brain regions? What computations do these brain regions carry out? What kinds of neural changes support different aspects of cognitive development? What environmental and genetic factors promote or hinder development? 
 
 #### Current projects
-<ul class="col-sm-6">
+<ul class="row">
   <li>Investigating the impact of blindness on theory of mind development (with Drs. Marina Bedny & Rebecca Saxe)</li>
   <li>Using naturalistic movie stimuli to characterize early development in the ventral visual stream (with Drs. Freddy Kamps, Nancy Kanwisher, & Rebecca Saxe)</li>
   <li>Examining development of brain regions recruited for language in neurotypical & autistic children (with Halie Olson & Drs. Evelina Fedorenko & Rebecca Saxe)</li>
