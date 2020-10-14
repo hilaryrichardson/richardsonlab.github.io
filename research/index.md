@@ -12,7 +12,7 @@ We use a variety of methods, including child-friendly neuroimaging experiments, 
 Download Hilary's full CV <a href="https://hilaryrichardson.github.io/static/HRichardson_CV_2020_web.pdf">here.</a>
 
 ##### Learn more
-Learn more about our research by [reading our publications](https://hilaryrichardson.github.io/publications/), and by reading press coverage of our work [here](https://www.pnas.org/content/113/8/1960.full) and [here](https://www.psychologicalscience.org/observer/i-feel-your-pain-the-neuroscience-of-empathy).
+Learn more about our research by [reading our publications](https://hilaryrichardson.github.io/publications/) and by reading press coverage of our work [here](https://www.pnas.org/content/113/8/1960.full) and [here](https://www.psychologicalscience.org/observer/i-feel-your-pain-the-neuroscience-of-empathy).
 
 #### Current projects
 <ul class="row">
