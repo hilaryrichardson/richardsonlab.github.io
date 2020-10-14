@@ -15,3 +15,6 @@ We are not currently collecting data, but we hope to soon! In the meantime, chec
 ##### Theirworld Edinburgh Birth Cohort
 Our lab also contributes to the [Theirworld Edinburgh Birth Cohort study](http://www.tebc.ed.ac.uk/). 
 This study has resumed in-person data collection. If you are expecting a baby, or have given birth in the last few days or weeks, check if you are [eligible to participate](http://www.tebc.ed.ac.uk/for-families/join-the-study/eligibility/) - we'd love to have you!
+
+##### Learn more
+Learn more about our research [here] (https://www.pnas.org/content/113/8/1960.full) and [here](https://www.psychologicalscience.org/observer/i-feel-your-pain-the-neuroscience-of-empathy).
