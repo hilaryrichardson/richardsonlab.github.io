@@ -27,5 +27,5 @@ group: resources
   
 ##### Participate in research! 
   * [Join the Volunteer Panel at Edinburgh PPLS](https://volunteer.ppls.ed.ac.uk/)
-  * [For Edinburgh PPLS students: Join the Student Volunteer Panel](https://universityofedinburgh-ppls.sona-systems.com/Default.aspx?ReturnUrl=%252f)
-  * [For Kids & Parents: See our Kids Corner page!](https://hilaryrichardson.github.io/kidscorner/)
+  * For Edinburgh PPLS students: [Join the Student Volunteer Panel](https://universityofedinburgh-ppls.sona-systems.com/Default.aspx?ReturnUrl=%252f)
+  * For Kids & Parents: [Visit our Kids Corner page!](https://hilaryrichardson.github.io/kidscorner/)
