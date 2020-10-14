@@ -9,10 +9,10 @@ Our research addresses fundamental questions about cognitive development: what c
 
 We use a variety of methods, including child-friendly neuroimaging experiments, to ask questions like: when do we develop "specialized" brain regions? What computations do these brain regions carry out? What kinds of neural changes support different aspects of cognitive development? What environmental and genetic factors promote or hinder development? 
 
-Download Hilary's full CV <a href="https://hilaryrichardson.github.io/static/HRichardson_CV_2020_web.pdf">here.</a>
-
 #### Learn more
 Learn more about our research by [reading our publications](https://hilaryrichardson.github.io/publications/) and by reading press coverage of our work [here](https://www.pnas.org/content/113/8/1960.full) and [here](https://www.psychologicalscience.org/observer/i-feel-your-pain-the-neuroscience-of-empathy).
+
+Download Hilary's full CV <a href="https://hilaryrichardson.github.io/static/HRichardson_CV_2020_web.pdf">here.</a>
 
 #### Current projects
 <ul class="row">
