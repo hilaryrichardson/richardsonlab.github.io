@@ -6,6 +6,8 @@ group: join
 
 # Join our lab!
 Our lab welcomes applicants from any race, ethnicity, religion, national origin, gender identity, gender expression, caregiver and family commitments, political affiliation, sexual orientation, and eligible age or disability status. We are committed to maintaining a supportive and collaborative lab environment for doing rigorous, transparent science.
+
+##### Individuals interested in joining the lab at any level should email me (Hilary) with a brief description of your research interests and experiences. I look forward to hearing from you!
 <br/>
 
 <div class="col-md-7 order-md-1">
@@ -14,7 +16,7 @@ Our lab welcomes applicants from any race, ethnicity, religion, national origin,
 <img class="img-fluid mx-auto d-block" src="/static/img/Holyrood.png" alt="Holyrood">
 </div>
  
-##### Prospective Graduate Students
+#### Prospective Graduate Students
 
 I am accepting applications for graduate students this Fall.  
 
@@ -26,7 +28,7 @@ I am accepting applications for graduate students this Fall.
   * [Learn more about the **MSc** programs at Edinburgh PPLS](https://www.ed.ac.uk/ppls/psychology/prospective/postgraduate/msc)
 
 
-##### Postdoctoral Fellows
+#### Postdoctoral Fellows
 
 I do not currently have funding for a postdoc, but I am open to proposals for new lines of work that are aligned with my current research interests. Ways for postdocs to secure independent funding include:
 
@@ -41,13 +43,13 @@ I do not currently have funding for a postdoc, but I am open to proposals for ne
 Note that at the moment, there have not been changes to UK participation in EU research programs, or in the eligibility of EU citizens to work at UK universities. Additionally, [the UK government has guaranteed to cover EU funding beyond Brexit](https://www.gov.uk/government/news/chancellor-philip-hammond-guarantees-eu-funding-beyond-date-uk-leaves-the-eu).
 
 
-##### Undergraduate Students/Research Assistants
+#### Undergraduate Students/Research Assistants
 The lab is currently working virtually, but there is a lot of exciting science that we can do even with these constraints. There are funding opportunities for undergraduate students interested in gaining research experience:
   * [Carnegie Trust Vacation Scholarships](https://www.carnegie-trust.org/award-schemes/vacation-scholarships/)
   * [Wellcome Biomedical Vacation Scholarships](https://wellcome.org/grant-funding/schemes/biomedical-vacation-scholarships)
   * [Nuffield Research Placements](https://www.nuffieldfoundation.org/students-teachers/nuffield-research-placements)
 
 
-##### Visitors
+#### Visitors
 The lab is currently working virtually, but if you are interested in "visiting" in some capacity, please email Hilary. 
 * [Learn more about visiting Edinburgh PPLS](https://www.ed.ac.uk/ppls/psychology/research/academic-visitors)
