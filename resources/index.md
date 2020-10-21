@@ -12,6 +12,7 @@ group: resources
   * [Rebecca Saxe's fMRI Bootcamp](https://cbmm.mit.edu/fmri-bootcamp)
   * [Nancy Kanwisher's BrainTalks](http://nancysbraintalks.mit.edu/)
   * [Dartbrains Intro to Neuroimaging](https://dartbrains.org/content/Intro_to_Neuroimaging.html)
+  * [Teach Yourself Freesurfer](  https://surfer.nmr.mgh.harvard.edu/fswiki/TeachYourselfFreeSurfer)
 
 ##### Conducting virtual developmental psych experiments
   * [Guidance from Marjorie Rhodes' Conceptual Development and Social Cognition Lab at NYU](http://discoveriesonline.org/)
