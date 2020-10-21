@@ -16,7 +16,7 @@ Our lab welcomes applicants from any race, ethnicity, religion, national origin,
  
 ##### Prospective Graduate Students
 
-Prospective graduate students should email me (Hilary), describing their research training and interests. 
+I am accepting applications for graduate students this Fall.  
 
   * [Learn more about funding opportunities for **PhD** students](https://www.ed.ac.uk/ppls/psychology/prospective/postgraduate/funding-research-students)
   * [Learn more about the **PhD** programs at Edinburgh PPLS](https://www.ed.ac.uk/ppls/psychology/prospective/postgraduate/psychology-phd-programme)
@@ -28,7 +28,7 @@ Prospective graduate students should email me (Hilary), describing their researc
 
 ##### Postdoctoral Fellows
 
-Individuals interested in completing a postdoc in the lab should email me (Hilary), describing their research training and interests. I do not currently have funding for a postdoc, but I am open to proposals for new lines of work that are aligned with my current research interests. Ways for postdocs to secure independent funding include:
+I do not currently have funding for a postdoc, but I am open to proposals for new lines of work that are aligned with my current research interests. Ways for postdocs to secure independent funding include:
 
   * [Marie Curie Fellowships](https://ec.europa.eu/research/mariecurieactions/actions/individual-fellowships_en)
   * [Sir Henry Wellcome Postdoctoral Fellowships](https://wellcome.org/grant-funding/schemes/sir-henry-wellcome-postdoctoral-fellowships)
@@ -42,7 +42,7 @@ Note that at the moment, there have not been changes to UK participation in EU r
 
 
 ##### Undergraduate Students/Research Assistants
-If you are interested in volunteering or working as a research assistant, please email Hilary! The lab is currently working virtually, but there is a lot of exciting science that we can do even with these constraints. There are funding opportunities for undergraduate students interested in gaining research experience:
+The lab is currently working virtually, but there is a lot of exciting science that we can do even with these constraints. There are funding opportunities for undergraduate students interested in gaining research experience:
   * [Carnegie Trust Vacation Scholarships](https://www.carnegie-trust.org/award-schemes/vacation-scholarships/)
   * [Wellcome Biomedical Vacation Scholarships](https://wellcome.org/grant-funding/schemes/biomedical-vacation-scholarships)
   * [Nuffield Research Placements](https://www.nuffieldfoundation.org/students-teachers/nuffield-research-placements)
