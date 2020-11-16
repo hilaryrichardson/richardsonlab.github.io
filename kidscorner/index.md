@@ -6,7 +6,7 @@ group: kidscorner
 
 # Kids Corner!
 Our lab is part of [Wee Science](https://www.weescience.ppls.ed.ac.uk/) at the University of Edinburgh.
-We are not currently collecting data, but we hope to soon! In the meantime, check out these (virtual) opportunities to help scientists!
+We are not currently collecting data, but we hope to soon. In the meantime, check out these (virtual) opportunities to help scientists!
 
 ##### Participate in studies online!
   * [Children Helping Science](https://childrenhelpingscience.com/age-groups)
