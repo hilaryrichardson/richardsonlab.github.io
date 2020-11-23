@@ -4,7 +4,7 @@ citation: "**Richardson, H.**, Lisandrelli, G., Riobueno-Naylor, A., Saxe, R. (2
 date: '2018-03-12'
 pdf: 'https://www.nature.com/articles/s41467-018-03399-2'
 links:
-- name: Open fMRI Dataset
+- name: fMRI Dataset
   url: https://openneuro.org/datasets/ds000228/versions/1.1.0
 - name: Movie Stimulus
   url: https://www.youtube.com/watch?v=7DmLkugdh9s&t=1s
