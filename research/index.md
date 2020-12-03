@@ -19,6 +19,7 @@ Download Hilary's full CV <a href="https://hilaryrichardson.github.io/static/HRi
   <li>Investigating the impact of blindness on theory of mind development (with Drs. Marina Bedny & Rebecca Saxe)</li>
   <li>Using naturalistic movie stimuli to characterize early development in the ventral visual stream (with Drs. Freddy Kamps, Nancy Kanwisher, & Rebecca Saxe)</li>
   <li>Examining development of brain regions recruited for language in neurotypical & autistic children (with Halie Olson & Drs. Evelina Fedorenko & Rebecca Saxe)</li>
+  <li>Investigating the impact of siblings on theory of mind development (with Koraima Sotomayor Enríquez)</li>
 </ul>
 
 #### Open Science
