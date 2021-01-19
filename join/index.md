@@ -17,7 +17,7 @@ Our lab welcomes applicants from any race, ethnicity, religion, national origin,
 </div>
  
 #### Prospective Graduate Students
-I am accepting applications for graduate students this Fall.  
+I am no longer accepting applications for graduate students for Fall 2021.  
 
   * [Learn more about funding opportunities for **PhD** students](https://www.ed.ac.uk/ppls/psychology/prospective/postgraduate/funding-research-students)
   * [Learn more about the **PhD** programs at Edinburgh PPLS](https://www.ed.ac.uk/ppls/psychology/prospective/postgraduate/psychology-phd-programme)
@@ -37,6 +37,7 @@ I do not currently have funding for a postdoc, but I am open to proposals for ne
   * [British Academy Postdoctoral Fellowships](https://www.thebritishacademy.ac.uk/funding/postdoctoral-fellowships/)
   * [For US citizens: NIH NRSA Postdoctoral Fellowship](https://researchtraining.nih.gov/programs/fellowships/F32)
   * [Learn more about funding for prospective postdoctoral fellows](https://ppls.ed.ac.uk/shared/postdoctoral-fellowships/)
+  * [Postdoctoral Fellowship List curated by Racío Mercado](https://rociomer.github.io/posts/postdoc-fellowships)
 
 Note that at the moment, there have not been changes to UK participation in EU research programs, or in the eligibility of EU citizens to work at UK universities. Additionally, [the UK government has guaranteed to cover EU funding beyond Brexit](https://www.gov.uk/government/news/chancellor-philip-hammond-guarantees-eu-funding-beyond-date-uk-leaves-the-eu).
 
