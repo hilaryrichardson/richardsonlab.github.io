@@ -32,7 +32,7 @@ I do not currently have funding for a postdoc, but I am open to proposals for ne
 
   * [Marie Curie Fellowships](https://ec.europa.eu/research/mariecurieactions/actions/individual-fellowships_en)
   * [Sir Henry Wellcome Postdoctoral Fellowships](https://wellcome.org/grant-funding/schemes/sir-henry-wellcome-postdoctoral-fellowships)
-  * [The Royal Society Newton International Fellowships](https://ec.europa.eu/research/mariecurieactions/actions/individual-fellowships_en)
+  * [The Royal Society Newton International Fellowships](https://royalsociety.org/grants-schemes-awards/grants/newton-international/)
   * [Leverhulme Trust Early Career Fellowships](https://www.leverhulme.ac.uk/early-career-fellowships)
   * [British Academy Postdoctoral Fellowships](https://www.thebritishacademy.ac.uk/funding/postdoctoral-fellowships/)
   * [For US citizens: NIH NRSA Postdoctoral Fellowship](https://researchtraining.nih.gov/programs/fellowships/F32)
