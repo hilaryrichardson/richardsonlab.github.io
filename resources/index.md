@@ -6,6 +6,9 @@ group: resources
 
 # Resources
 
+##### Hidden Curriculum of Grad School
+  * [Jessica Calarco's blog post/tweet thread](https://scatter.wordpress.com/2018/07/24/guest-post-grad-schools-hidden-curriculum/)
+  
 ##### fMRI & cognitive neuroscience
   * [Neuroskeptic's fMRI in 1000 words](http://neuroskeptic.blogspot.com/2010/05/fmri-in-1000-words.html)
   * [Neuroskeptic's fMRI analysis in 1000 words](https://www.discovermagazine.com/mind/fmri-analysis-in-1000-words#.UTOnFzdjp9U)
