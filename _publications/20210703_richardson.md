@@ -3,5 +3,7 @@ citation: "**Richardson, H.**, Taylor, J., Kane-Grade, F., Powell, L., Bosquet E
 <i>Developmental Cognitive Neuroscience</i>, 100984."
 date: '2021-07-03'
 pdf: 'https://www.sciencedirect.com/science/article/pii/S1878929321000748'
-
+links:
+- name: Data & Code
+  url: https://osf.io/7452j/
 ---
