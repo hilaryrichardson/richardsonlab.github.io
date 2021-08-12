@@ -10,6 +10,12 @@ Our lab is part of the [Wee Science](https://www.weescience.ppls.ed.ac.uk/) grou
 ##### Want to know what your child's brain looks like? So do we!
 We are currently looking for junior brain scientists who are **five years old** to participate in our MRI study. Magnetic Resonance Imaging (MRI) is a safe and non-invasive way to study brain activity and anatomy. Children will play fun games with researchers and inside our MRI scanner. As a thank you for participating, children will receive an Amazon gift card, a small prize, and even a picture of their brain! We also provide free parking and snacks for our families. This study takes place at the [Edinburgh Imaging Facility at the Royal Infirmary of Edinburgh](https://www.ed.ac.uk/clinical-sciences/edinburgh-imaging/research/facilities-and-equipment/edinburgh-imaging-facilities/edinburgh-imaging-facility-rie). For more information, please email Hilary at weebrains@ed.ac.uk!
 
+<div class="col-md-7 order-md-1">
+</div>
+<div class="container px-2 max-width: 100%">
+<img class="img-fluid mx-auto d-block" src="/static/img/Child_SittingOnBed_cropped.png" alt="Child_SittingOnBed">
+</div>
+
 ##### Theirworld Edinburgh Birth Cohort
 Our lab also contributes to the [Theirworld Edinburgh Birth Cohort study](http://www.tebc.ed.ac.uk/). 
 This study has resumed in-person data collection. If you are expecting a baby, or have given birth in the last few days or weeks, check if you are [eligible to participate](http://www.tebc.ed.ac.uk/for-families/join-the-study/eligibility/) - we'd love to have you!
