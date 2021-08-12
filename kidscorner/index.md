@@ -20,7 +20,7 @@ We are currently looking for junior brain scientists who are **five years old** 
 
 ##### Theirworld Edinburgh Birth Cohort
 Our lab also contributes to the [Theirworld Edinburgh Birth Cohort study](http://www.tebc.ed.ac.uk/). 
-This study has resumed in-person data collection. If you are expecting a baby, or have given birth in the last few days or weeks, check if you are [eligible to participate](http://www.tebc.ed.ac.uk/for-families/join-the-study/eligibility/) - we'd love to have you!
+This study will be recruiting new participants through November 2021. If you are expecting a baby, or have given birth in the last few days or weeks, check if you are [eligible to participate](http://www.tebc.ed.ac.uk/for-families/join-the-study/eligibility/) - we'd love to have you!
 
 
 ##### Participate in studies online!
