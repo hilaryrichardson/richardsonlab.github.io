@@ -17,7 +17,7 @@ Our lab welcomes applicants from any race, ethnicity, religion, national origin,
 </div>
  
 #### Prospective Graduate Students
-I am no longer accepting applications for graduate students for Fall 2021.  
+I am accepting applications for graduate students for Fall 2022. Prospective graduate students must apply by the November deadline. If you are interested in applying, please email me with your CV and a brief summary of your research experience and interests. 
 
   * [Learn more about funding opportunities for **PhD** students](https://www.ed.ac.uk/ppls/psychology/prospective/postgraduate/funding-research-students)
   * [Learn more about the **PhD** programs at Edinburgh PPLS](https://www.ed.ac.uk/ppls/psychology/prospective/postgraduate/psychology-phd-programme)
