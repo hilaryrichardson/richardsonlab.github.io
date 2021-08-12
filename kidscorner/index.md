@@ -14,7 +14,7 @@ We are currently looking for junior brain scientists who are **five years old** 
 <div class="col-md-7 order-md-1">
 </div>
 <div class="container px-2 max-width: 100%">
-<img class="img-fluid mx-auto d-block" src="/static/img/Child_SittingOnBed_cropped.png" alt="Child_SittingOnBed">
+<img class="img-fluid mx-auto d-block" src="/static/img/Child_SittingOnBed_cropped.png" alt="Child_SittingOnBed_cropped">
 </div>
 
 
