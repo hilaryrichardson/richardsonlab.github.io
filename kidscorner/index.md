@@ -9,7 +9,7 @@ Our lab is part of the [Wee Science](https://www.weescience.ppls.ed.ac.uk/) grou
 
 
 ##### Want to know what your child's brain looks like? So do we!
-We are currently looking for junior brain scientists who are **five years old** to participate in our MRI study. Magnetic Resonance Imaging (MRI) is a safe and non-invasive way to study brain activity and anatomy. Children will play fun games with researchers and inside our MRI scanner. As a thank you for participating, children will receive an Amazon gift card, a small prize, and even a picture of their brain! We also provide free parking and snacks for our families. This study takes place at the [Edinburgh Imaging Facility at the Royal Infirmary of Edinburgh](https://www.ed.ac.uk/clinical-sciences/edinburgh-imaging/research/facilities-and-equipment/edinburgh-imaging-facilities/edinburgh-imaging-facility-rie). For more information, please email Hilary at weebrains@ed.ac.uk!
+We are currently looking for junior brain scientists who are **five years old** to participate in our MRI study. Magnetic Resonance Imaging (MRI) is a safe and non-invasive way to study brain activity and anatomy. Children will play fun games with researchers and inside our MRI scanner. As a thank you for participating, children will receive an Amazon gift card, a small prize, and even a picture of their brain! We also provide free parking and snacks for our families. This study takes place at the [Edinburgh Imaging Facility at the Royal Infirmary of Edinburgh](https://www.ed.ac.uk/clinical-sciences/edinburgh-imaging/research/facilities-and-equipment/edinburgh-imaging-facilities/edinburgh-imaging-facility-rie). For more information, please email Hilary at wee.brains@ed.ac.uk!
 
 <div class="col-md-7 order-md-1">
 </div>
