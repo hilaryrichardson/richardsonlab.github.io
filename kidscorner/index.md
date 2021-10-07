@@ -7,7 +7,7 @@ group: kidscorner
 # Kids Corner!
 Our lab is part of the [Wee Science](https://www.weescience.ppls.ed.ac.uk/) group at the University of Edinburgh, which uses a variety of methods to better understand how babies and children learn to think and talk.
 
-We have recently concluded recruitment of junior brain scientists who are **five years old** to participate in our MRI study. Thank you to all of the families who contributed their time and to those who reached out to learn more about our research!
+We recently concluded recruitment of junior brain scientists who are **five years old** to participate in our MRI study. Thank you to all of the families who contributed their time and to those who reached out to learn more about our research!
 
 <div class="col-md-7 order-md-1">
 </div>
