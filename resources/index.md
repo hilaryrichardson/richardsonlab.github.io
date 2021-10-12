@@ -9,6 +9,9 @@ group: resources
 ##### Hidden Curriculum of Grad School
   * [Jessica Calarco's blog post/tweet thread](https://scatter.wordpress.com/2018/07/24/guest-post-grad-schools-hidden-curriculum/)
   
+##### General Resources
+  [Lists of paid internships, grad school info sessions, PhD app resources, bost-bac opportunities (geared towards Psychology)](https://www.psychresearchlist.com/)
+  
 ##### fMRI & cognitive neuroscience
   * [Neuroskeptic's fMRI in 1000 words](http://neuroskeptic.blogspot.com/2010/05/fmri-in-1000-words.html)
   * [Neuroskeptic's fMRI analysis in 1000 words](https://www.discovermagazine.com/mind/fmri-analysis-in-1000-words#.UTOnFzdjp9U)
