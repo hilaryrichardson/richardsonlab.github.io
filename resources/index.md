@@ -19,7 +19,7 @@ group: resources
   * [Nancy Kanwisher's BrainTalks](http://nancysbraintalks.mit.edu/)
   * [Dartbrains Intro to Neuroimaging](https://dartbrains.org/content/Intro_to_Neuroimaging.html)
   * [Teach Yourself Freesurfer](  https://surfer.nmr.mgh.harvard.edu/fswiki/TeachYourselfFreeSurfer)
-  * [Running list of neuroimaging training resources](https://docs.google.com/document/d/1rEP71KKgBPPefnB-NpXk1DZYezNdqyEbAZ-rTd0FHio/edit?usp=sharing)
+  * [Running list of neuroimaging training resources (collated by Dr. Michele Veldsman)](https://docs.google.com/document/d/1rEP71KKgBPPefnB-NpXk1DZYezNdqyEbAZ-rTd0FHio/edit?usp=sharing)
 
 ##### Conducting virtual developmental psych experiments
   * [Guidance from Marjorie Rhodes' Conceptual Development and Social Cognition Lab at NYU](http://discoveriesonline.org/)
