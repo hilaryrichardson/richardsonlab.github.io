@@ -42,7 +42,8 @@ group: people
                   <a href= "http://github.com/{{member.github}}"> {{member.github}} </a> <br>
                 {% endif %}
             </div>
-                <div class="row" style="padding-top: 5px; margin-top: - 5px;">
+            <div class="col-sm-8">
+                <p class="text-justify">{{member.description | markdownify}}</p>
             </div>
         </div>
 {% endfor %}
