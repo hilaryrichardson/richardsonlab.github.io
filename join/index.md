@@ -17,7 +17,7 @@ Our lab welcomes applicants from any race, ethnicity, religion, national origin,
 </div>
  
 #### Prospective Graduate Students
-I am no longer accepting applications for graduate students for Fall 2022.  
+I am not accepting applications for graduate students for Fall 2022.  
 
   * [Learn more about funding opportunities for **PhD** students](https://www.ed.ac.uk/ppls/psychology/prospective/postgraduate/funding-research-students)
   * [Learn more about the **PhD** programs at Edinburgh PPLS](https://www.ed.ac.uk/ppls/psychology/prospective/postgraduate/psychology-phd-programme)
@@ -43,7 +43,6 @@ Note that at the moment, there have not been changes to UK participation in EU r
 
 
 #### Undergraduate Students/Research Assistants
-The lab is currently working virtually, but there is a lot of exciting science that we can do even with these constraints. 
   * For undergraduate students at Edinburgh: [Learn more about volunteer research opportunities in PPLS](https://padlet.com/schoolofppls/mdcxnjkbspf0ljew)
 
 There are funding opportunities for undergraduate students interested in gaining research experience:
@@ -53,5 +52,5 @@ There are funding opportunities for undergraduate students interested in gaining
 
 
 #### Visitors
-The lab is currently working virtually, but if you are interested in "visiting" in some capacity, please email Hilary. 
+If you are interested in "visiting" in some capacity, please email Hilary. 
 * [Learn more about visiting Edinburgh PPLS](https://www.ed.ac.uk/ppls/psychology/research/academic-visitors)
