@@ -6,6 +6,21 @@ group: people
 
 <h1>Richardson Lab</h1>
 
+        {% for publication in site.publications reversed %}
+                <div>{{ publication.citation | markdownify }} &nbsp;&nbsp;&nbsp;&nbsp; [<a href="{{publication.pdf}}" alt = "PDF">Full Text</a>]                 
+                     {% if publication.links %}
+                           {% for link in publication.links %}
+                              [<a href="{{link.url}}" alt="{{link.name}}">{{link.name}}</a>]
+                           {% endfor %}
+                     {% endif %}
+                </div>
+
+                <div class="row" style="padding-top: 5px; margin-top: - 5px;">
+                </div>
+                <br>
+        {% endfor %} 
+
+
 {% for member in site.people %}
         <hr>
         <!-- The paddingtop and margin-top edits allow anchors to link properly. -->
@@ -42,8 +57,7 @@ group: people
                   <a href= "http://github.com/{{member.github}}"> {{member.github}} </a> <br>
                 {% endif %}
             </div>
-            <div class="col-sm-8">
-                <p class="text-justify">{{member.description | markdownify}}</p>
+                <div class="row" style="padding-top: 5px; margin-top: - 5px;">
             </div>
         </div>
 {% endfor %}
