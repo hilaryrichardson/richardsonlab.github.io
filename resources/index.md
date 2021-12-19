@@ -21,6 +21,9 @@ group: resources
   * [Teach Yourself Freesurfer](  https://surfer.nmr.mgh.harvard.edu/fswiki/TeachYourselfFreeSurfer)
   * [Running list of neuroimaging training resources (collated by Dr. Michele Veldsman)](https://docs.google.com/document/d/1rEP71KKgBPPefnB-NpXk1DZYezNdqyEbAZ-rTd0FHio/edit?usp=sharing)
 
+##### Cognitive Science
+  * [Charles Kemp's Intro to Cog Sci resources](https://cskemp.github.io/cssinternational/cogsciresources.html)
+
 ##### Conducting virtual developmental psych experiments
   * [Guidance from Marjorie Rhodes' Conceptual Development and Social Cognition Lab at NYU](http://discoveriesonline.org/)
   * [Guidance from Hyo Gweon's Social Learning Lab at Stanford](http://sll.stanford.edu/docs/Webinar_materials_v2.pdf)
