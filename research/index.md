@@ -19,7 +19,6 @@ Download Hilary's full CV <a href="https://hilaryrichardson.github.io/static/HRi
   <li>Investigating the impact of blindness on theory of mind development (with Drs. Marina Bedny & Rebecca Saxe)</li>
   <li>Using naturalistic movie stimuli to characterize early development in the ventral visual stream (with Drs. Freddy Kamps, Ratan Murty, Nancy Kanwisher, & Rebecca Saxe)</li>
   <li>Examining development of brain regions recruited for language in neurotypical & autistic children (with Halie Olson & Dr. Rebecca Saxe)</li>
-  <li>Investigating the impact of preterm birth on brain and cognitive development (with the [Theirworld Edinburgh Birth Cohort](https://www.tebc.ed.ac.uk/) research team)</li>
 </ul>
 
 #### Open Science
